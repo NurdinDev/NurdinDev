@@ -2,7 +2,8 @@
 <h3 align="center">Sr. Software Engineer 🚧</h3>
 <h5 align="center">Previously Frontend Developer 🎨 </h5>
 
-- 👨‍💻 I'm currently working full-time as Nodejs Backend Developer 🚧
+- 🚧 Full time Nodejs Backend Developer at [RoaaTech](https://roaa.tech)
+- 💪🏻 Part time freelancer at [Upwork](https://www.upwork.com/freelancers/nurdindev)
 - 📚 Learning about:
   - Cloud Computing ⛈
   - Building and Managin Microservices 🔌
