@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nureddin</h1>
-<h3 align="center">Sr. Software Engineer 🚧</h3>
-<h5 align="center">Previously Frontend Developer 🎨 </h5>
+<h3 align="center">MERN Stack Developer, Cloud & DevOps enthusiast ☁️ ☸️</h3>
 
 - 🚧 Full time Nodejs Backend Developer at [RoaaTech](https://roaa.tech)
 - 💪🏻 Part time freelancer at [Upwork](https://www.upwork.com/freelancers/nurdindev)
